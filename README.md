@@ -1,8 +1,9 @@
 ### Hi there, I'm Victor Garcia👋
- 🏠 I’m currently living at Armenia, Colombia 🇨🇴.
- 👨‍💻 I’m currently working on Flutter and Android.
- 🔭 Currently working as a software engineer at [Celuweb](https://www.celuweb.com).
- ⚡ Available for freelance projects.
+<hr/>
+ 🏠 I’m currently living at Armenia, Colombia 🇨🇴.<br/>
+ 👨‍💻 I’m currently working on Flutter and Android.<br/>
+ 🔭 Currently working as a software engineer at [Celuweb](https://www.celuweb.com).<br/>
+ ⚡ Available for freelance projects.<br/>
   
   
   [Celuweb]: https://www.celuweb.com
