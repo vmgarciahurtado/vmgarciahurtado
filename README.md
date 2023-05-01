@@ -16,4 +16,4 @@
 [celuweb]: https://www.celuweb.com
 [linkedin]: https://www.linkedin.com/in/victor-manuel-garcia-hurtado-0700a21b7/
 [gmail]: mailto:vmgarciahurtado@gmail.com
-[instagram]: https://www.celuweb.com](https://www.instagram.com/vm_garciah/
+[instagram]: https://www.instagram.com/vm_garciah/
