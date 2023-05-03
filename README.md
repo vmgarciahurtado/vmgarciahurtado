@@ -7,9 +7,9 @@
 <br>
 
 🏠 I’m currently living at Armenia, Colombia 🇨🇴.<br/>
-👨‍💻 I’m currently working on Flutter and Android.<br/>
-🔭 Currently working as a software engineer at [celuweb].<br/>
-⚡ Available for freelance projects.<br/>
+👨‍💻 Nowadays I'm working on Flutter and Android.<br/>
+🔭 At the moment I'm working as a software engineer at [celuweb].<br/>
+⚡  Available for freelance projects.<br/>
 
 ### Connect with me:
 
