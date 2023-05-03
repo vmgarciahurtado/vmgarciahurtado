@@ -11,6 +11,25 @@
 [<img align="left" alt="victor | LinkedIn" width="28px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 [<img align="left" alt="vmgarciahurtado@gmail.com | Instagram" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
 
+
+<br/>
+<br/>
+
+### Languages and Tools:
+
+
+<img align="center"  width="25px" height="25px" src="./flutter.png" style="background-color:white;border:5px solid white"/>
+<img align="center"  width="25px" height="25px" src="./android.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./ionic.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./sqlite.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./git.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./android_studio.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./vscode.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./xcode.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./linux.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./windows.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+<img align="center"  width="25px" height="25px" src="./macos.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
+
 <br/>
 
 [celuweb]: https://www.celuweb.com
