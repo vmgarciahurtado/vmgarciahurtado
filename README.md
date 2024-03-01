@@ -13,30 +13,13 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="vmgarciahurtado@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
-[<img align="left" alt="victor | LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="vmgarciahurtado@gmail.com | Instagram" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
 
 <br/>
 <br/>
-<!--
-### Languages and Tools:
 
-<img align="left"  width="25px" height="25px" src="./flutter.png" style="color:#FFF;border:5px solid white"/>
-<img align="left"  width="25px" height="25px" src="./android.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./ionic.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./sqlite.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./git.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./android_studio.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px"/>
-<img align="left"  width="25px" height="25px" src="./vscode.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./xcode.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./linux.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./windows.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-<img align="left"  width="25px" height="25px" src="./macos.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
-
--->
-<br/>
 [celuweb]: https://www.celuweb.com
 [linkedin]: https://www.linkedin.com/in/victor-manuel-garcia-hurtado-0700a21b7/
 [gmail]: mailto:vmgarciahurtado@gmail.com
