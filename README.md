@@ -35,8 +35,8 @@
 <img align="left"  width="25px" height="25px" src="./windows.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
 <img align="left"  width="25px" height="25px" src="./macos.png" style="background-color:white;border:5px solid white; margin:0px 0px 0px 10px" />
 
-<br/>
 -->
+<br/>
 [celuweb]: https://www.celuweb.com
 [linkedin]: https://www.linkedin.com/in/victor-manuel-garcia-hurtado-0700a21b7/
 [gmail]: mailto:vmgarciahurtado@gmail.com
